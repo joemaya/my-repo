@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/uidai/Work/UIDAI/workspaces/temp-work/cognidata.jar"/>
+	<classpathentry kind="lib" path="/Users/uidai/Work/UIDAI/workspaces/temp-work/cognikeyboard.jar"/>
+	<classpathentry kind="lib" path="/Users/uidai/Work/UIDAI/workspaces/temp-work/cognitrans.jar"/>
+	<classpathentry kind="lib" path="/Users/uidai/Work/UIDAI/workspaces/temp-work/translit-api.jar"/>
+	<classpathentry kind="lib" path="/Users/uidai/Work/UIDAI/workspaces/temp-work/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/uidai/Work/UIDAI/workspaces/temp-work/xom-1.2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
